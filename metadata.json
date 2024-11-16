@@ -1,0 +1,11 @@
+{
+    "name": "Mbot Web App",
+    "author": "Michigan Robotics",
+    "version": "1.0.0",
+    "description": "Web application for michigan robotics",
+    "html_file": "index.html",
+    "uuid": "ec00e0512326e8f25d90b2d47d83f1603f72ed054877f2ef0e4caba97387d853",
+    "hidden": false,
+    "remote_package": false,
+    "remote_url": ""
+}
